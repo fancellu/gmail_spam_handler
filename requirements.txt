@@ -1,0 +1,4 @@
+torch~=2.7.1
+transformers~=4.53.0
+google-auth-oauthlib~=1.2.2
+google-api-python-client~=2.174.0
