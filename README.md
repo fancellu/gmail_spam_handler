@@ -16,7 +16,7 @@ An automated Gmail spam detection system using machine learning. This script mon
 -   `spam_classifier.py` - A wrapper for the machine learning model that handles spam classification.
 -   `requirements.txt` - A list of all the required Python dependencies.
 -   `README.md` - This documentation file.
-- 
+
 ## Setup
 
 ### 1. Install Dependencies
