@@ -88,3 +88,7 @@ You can easily customize the script's behavior by modifying the configuration co
 
 - **Authentication issues**:  If you encounter persistent authentication errors, delete the token.json file and run the script again to re-authenticate.
 - **API quota exceeded**: The Gmail API has usage limits. If you see quota errors, you may need to increase the POLL_INTERVAL_SECONDS in the configuration to reduce the number of requests.
+
+## Tutorial
+
+[Tutorial](tutorial/index.md)
