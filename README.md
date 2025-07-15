@@ -17,6 +17,10 @@ An automated Gmail spam detection system using machine learning. This script mon
 -   `requirements.txt` - A list of all the required Python dependencies.
 -   `README.md` - This documentation file.
 
+## Tutorial
+
+[Tutorial](tutorial/index.md
+
 ## Setup
 
 ### 1. Install Dependencies
@@ -89,6 +93,4 @@ You can easily customize the script's behavior by modifying the configuration co
 - **Authentication issues**:  If you encounter persistent authentication errors, delete the token.json file and run the script again to re-authenticate.
 - **API quota exceeded**: The Gmail API has usage limits. If you see quota errors, you may need to increase the POLL_INTERVAL_SECONDS in the configuration to reduce the number of requests.
 
-## Tutorial
-
-[Tutorial](tutorial/index.md)
+)
