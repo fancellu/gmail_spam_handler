@@ -19,7 +19,7 @@ An automated Gmail spam detection system using machine learning. This script mon
 
 ## Tutorial
 
-[Tutorial](tutorial/index.md
+[Tutorial](tutorial/index.md)
 
 ## Setup
 
